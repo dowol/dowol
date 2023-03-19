@@ -1,5 +1,6 @@
 # Dowol
 ###### READ MORE STORIES
+
 <table>
     <tbody>
         <tr>
@@ -15,7 +16,6 @@
             <td>
                 <a href="./README.fr.md" hreflang="fr">français</a>
             </td>
-            
         </tr>
     </tbody>
 </table>
