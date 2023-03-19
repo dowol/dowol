@@ -1,7 +1,7 @@
 # Dowol
 ###### READ MORE STORIES
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td>
