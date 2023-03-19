@@ -1,6 +1,5 @@
 # Dowol
-![Dowol Developer](./img/dowol-developer-banner.png)
 
+<img src="./img/dowol-developer-banner.png" alt="Dowol Developer" style="margin: auto 0" />
 
-
-[![Dowol's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dowol)](https://github.com/dowol/dowol)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowol" alt="Dowol's GitHub Stats" style="margin: auto 0" />
