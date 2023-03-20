@@ -66,9 +66,9 @@
 <section title="Contact" align="center">
   <h2>Contact:</h2>
   <a href="mailto://dowol1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&logoColor=whitesmoke&style=social" alt Contact Email dowol1212@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&style=social" alt Contact Email dowol1212@gmail.com" />
   </a>
   <a href="https://instagram.com/dowol.lee/">
-    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&logoColor=whitesmoke&style=social" alt="Contact Instagram @dowol.lee" />
+    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&style=social" alt="Contact Instagram @dowol.lee" />
   </a>
 </section>
