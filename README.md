@@ -35,20 +35,20 @@
   <img src="https://img.shields.io/badge/C%E2%99%AF-239120?style=for-the-badge&logo=csharp&logoColor=eee" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=eee" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2fC++-00599C?style=for-the-badge&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2fC++-00599C?style=for-the-badge&logo=cplusplus" alt="C/C++" />
   <h4>Frameworks &amp; Platforms:</h4>
   <img src="https://img.shields.io/badge/WPF-0c54c2?style=for-the-badge&logo=xaml" alt="WPF" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512bd4?style=for-the-badge&logo=dotnet" alt="WPF" />
-  <img src="https://img.shields.io/badge/Blazor-512bd4?style=for-the-badge&logo=blazor" alt="WPF" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512bd4?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Blazor-512bd4?style=for-the-badge&logo=blazor" alt="Blazor" />
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=eee" alt="node.js" />
   <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=eee" alt="express" />
   <h4>DBMS &amp; Servers:</h4>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=eee" />
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=eee" />
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=eee" />
+  <img src="https://img.shields.io/badge/NginX-009639?style=for-the-badge&logo=nginx&logoColor=eee" alt="NginX" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=eee" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=eee" alt="SQLite" />
   <h4>IoT &amp; Embeddeds:</h4>
-  <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=eee" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=eee" />
+  <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=eee" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=eee" alt="Raspberry Pi" />
   <h3>Studying</h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=eee" alt="Java" />
