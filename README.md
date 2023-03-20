@@ -1,8 +1,9 @@
 # Dowol
 
-<section title="Hello, world!" align="center">
+<section align="center">
   <img src="./img/dowol-developer-banner.png" alt="Dowol Developer" />
 </section>
+<!--
 <section title="Read more stories" align="center">
   <p>READ MORE STORIES</p>
   <table align="center" border="0">
@@ -24,13 +25,11 @@
     </tbody>
   </table>
 </section>
-<!--
-  <img src="https://img.shields.io/badge/MESSAGE-COLOR?style=for-the-badge&logo=LOGO&logoColor=ccc" alt="MESSAGE"/>
 -->
 <section title="Skills" align="center">
   <h2>SKILLS</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowol&theme=transparent&border_raduis=4&langs_count=5" alt="Dowol's GitHub Stats" />
-  <h3>Main Skills</h3>
+  <h3>🛠️ Main Skills: </h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/C%E2%99%AF-239120?style=for-the-badge&logo=csharp&logoColor=eee" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333" alt="JavaScript" />
@@ -49,7 +48,7 @@
   <h4>IoT &amp; Embeddeds:</h4>
   <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=eee" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=eee" alt="Raspberry Pi" />
-  <h3>Studying</h3>
+  <h3>I'm now studying ...</h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=eee" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=eee" alt="Kotlin" />
