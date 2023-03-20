@@ -25,4 +25,4 @@
 <img src="./img/dowol-developer-banner.png" alt="Dowol Developer" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowol?bg_color=f5f5f5&cache_seconds=43200&border_raduis=4&langs_count=5" alt="Dowol's GitHub Stats" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowol&bg_color=f5f5f5&cache_seconds=43200&border_raduis=4&langs_count=5" alt="Dowol's GitHub Stats" align="center" />
