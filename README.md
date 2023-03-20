@@ -9,16 +9,16 @@
     <tbody>
       <tr>
         <td>
-          <a href="./README.ko.md" hreflang="ko">한국어</a>
+          <a href="./whoami.ko.md" hreflang="ko">한국어</a>
         </td>
         <td>
-          <a href="./README.en.md" hreflang="en">English</a>
+          <a href="./whoami.en.md" hreflang="en">English</a>
         </td>
         <td>
-          <a href="./README.ja.md" hreflang="ja">日本語</a>
+          <a href="./whoami.ja.md" hreflang="ja">日本語</a>
         </td>
         <td>
-          <a href="./README.fr.md" hreflang="fr">français</a>
+          <a href="./whoami.fr.md" hreflang="fr">français</a>
         </td>
       </tr>
     </tbody>
