@@ -1,5 +1,9 @@
 # Dowol
 
+<section>
+</section>
+
+
 <section align="center">
   <img src="./img/dowol-developer-banner.png" alt="Dowol Developer" />
 </section>
@@ -58,4 +62,13 @@
   <img src="https://img.shields.io/badge/Electron-47848f?style=for-the-badge&logo=electron&logoColor=eee" alt="Electron" />
   <img src="https://img.shields.io/badge/Qt%2fPySide2-41cd52?style=for-the-badge&logo=qt&logoColor=eee" alt="Qt/PySide2" />
   <img src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=eee" alt="Android" />
+</section>
+<section title="Contact" align="center">
+  <h2>Contact:</h2>
+  <a href="mailto://dowol1212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&logoColor=whitesmoke&style=for-the-badge" alt Contact Email dowol1212@gmail.com" />
+  </a>
+  <a href="https://instagram.com/dowol.lee/">
+    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&logoColor=whitesmoke&style=for-the-badge" alt="Contact Instagram @dowol.lee" />
+  </a>
 </section>
