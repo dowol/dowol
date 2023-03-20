@@ -61,12 +61,3 @@
   <img src="https://img.shields.io/badge/Qt%2fPySide2-41cd52?style=for-the-badge&logo=qt&logoColor=eee" alt="Qt/PySide2" />
   <img src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=eee" alt="Android" />
 </section>
-<section title="Contact" align="center">
-  <h2>Contact:</h2>
-  <a href="mailto://dowol1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&style=social" alt Contact Email dowol1212@gmail.com" />
-  </a>
-  <a href="https://instagram.com/dowol.lee/">
-    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&style=social" alt="Contact Instagram @dowol.lee" />
-  </a>
-</section>
