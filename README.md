@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/C%2fC++-00599C?style=for-the-badge&logo=cplusplus" alt="C/C++" />
   <h4>Frameworks &amp; Platforms:</h4>
   <img src="https://img.shields.io/badge/WPF-0c54c2?style=for-the-badge&logo=xaml" alt="WPF" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512bd4?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Blazor-512bd4?style=for-the-badge&logo=blazor" alt="Blazor" />
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=eee" alt="node.js" />
   <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=eee" alt="express" />
   <h4>DBMS &amp; Servers:</h4>
@@ -58,6 +56,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=eee" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=eee" alt="Golang" />
   <h4>Frameworks &amp; Platforms:</h4>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512bd4?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Blazor-512bd4?style=for-the-badge&logo=blazor" alt="Blazor" />
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333" alt="React" />
   <img src="https://img.shields.io/badge/Electron-47848f?style=for-the-badge&logo=electron&logoColor=eee" alt="Electron" />
   <img src="https://img.shields.io/badge/Qt%2fPySide2-41cd52?style=for-the-badge&logo=qt&logoColor=eee" alt="Qt/PySide2" />
@@ -66,9 +66,9 @@
 <section title="Contact" align="center">
   <h2>Contact:</h2>
   <a href="mailto://dowol1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&logoColor=whitesmoke&style=for-the-badge" alt Contact Email dowol1212@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-dowol1212@gmail.com-ea4335?logo=gmail&logoColor=whitesmoke&style=social" alt Contact Email dowol1212@gmail.com" />
   </a>
   <a href="https://instagram.com/dowol.lee/">
-    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&logoColor=whitesmoke&style=for-the-badge" alt="Contact Instagram @dowol.lee" />
+    <img src="https://img.shields.io/badge/Instagram-@dowol.lee-e4405f?logo=instagram&logoColor=whitesmoke&style=social" alt="Contact Instagram @dowol.lee" />
   </a>
 </section>
