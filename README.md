@@ -48,7 +48,7 @@
   <h4>IoT &amp; Embeddeds:</h4>
   <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=eee" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=eee" alt="Raspberry Pi" />
-  <h3>I'm now studying ...</h3>
+  <h3>✒️ I'm now studying...</h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=eee" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=eee" alt="Kotlin" />
