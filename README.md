@@ -44,7 +44,6 @@
   <h4>DBMS &amp; Servers:</h4>
   <img src="https://img.shields.io/badge/NginX-009639?style=for-the-badge&logo=nginx&logoColor=eee" alt="NginX" />
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=eee" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=eee" alt="SQLite" />
   <h4>IoT &amp; Embeddeds:</h4>
   <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=eee" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=eee" alt="Raspberry Pi" />
@@ -60,4 +59,7 @@
   <img src="https://img.shields.io/badge/Electron-47848f?style=for-the-badge&logo=electron&logoColor=eee" alt="Electron" />
   <img src="https://img.shields.io/badge/Qt%2fPySide2-41cd52?style=for-the-badge&logo=qt&logoColor=eee" alt="Qt/PySide2" />
   <img src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=eee" alt="Android" />
+  <h4>DBMS &amp; Servers:</h4>
+  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=eee" alt="SQLite" />
+  <img src="https://img.shields.io/badge/mongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=eee" alt="mongoDB" />
 </section>
