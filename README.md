@@ -50,6 +50,7 @@
   <h3>✒️ I'm now studying...</h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=eee" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoCOlor=eee" alt="SCSS" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=eee" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=eee" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=eee" alt="Golang" />
