@@ -29,7 +29,7 @@
 -->
 <section title="Skills" align="center">
   <h2>SKILLS</h2>
-  <img src="https://github-readme-stats.dowol.dev/top-langs/?username=dowol&layout=compact&theme=transparent&border_raduis=5&langs_count=5" alt="Dowol's Top languages" />
+  <img src="https://github-readme-stats.dowol.dev/top-langs/?username=dowol&layout=compact&theme=transparent&border_raduis=5&langs_count=8" alt="Dowol's Top languages" />
   <img src="https://github-readme-stats.dowol.dev/?username=dowol&show_icons=true&theme=transparent&border_radius=5" alt="Dowol's GitHub Stats" /> 
   <h3>🛠️ Main Skills: </h3>
   <h4>Languages:</h4>
