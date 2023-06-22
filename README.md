@@ -29,8 +29,10 @@
 -->
 <section title="Skills" align="center">
   <h2>SKILLS</h2>
+  <!--
   <img src="https://github-readme-stats.dowol.dev/top-langs/?username=dowol&theme=transparent&border_raduis=5&langs_count=8&layout=compact" alt="Dowol's Top languages" />
   <img src="https://github-readme-stats.dowol.dev/?username=dowol&show_icons=true&theme=transparent&border_radius=5" alt="Dowol's GitHub Stats" /> 
+  -->
   <h3>🛠️ Main Skills: </h3>
   <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/C%E2%99%AF-239120?style=for-the-badge&logo=csharp&logoColor=eee" alt="C#" />
