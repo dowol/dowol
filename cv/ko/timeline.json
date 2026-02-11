@@ -4,6 +4,7 @@
     "title": "수원공업고등학교",
     "subtitle": "전자통신과",
     "logo": "/images/sths.png",
+    "url": "https://sugong-h.goesw.kr/",
     "period": {
       "begin": "2017-03-02",
       "end": "2020-01-02"
@@ -15,6 +16,7 @@
     "title": "부산외국어대학교",
     "subtitle": "컴퓨터공학과, 일본어융합학부 IT전공(복수)",
     "logo": "/images/bufs.svg",
+    "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=bufsmain_2023",
     "period": {
       "begin": "2020-03-02",
       "end": "2026-02-20"
@@ -25,6 +27,7 @@
     "category": "work",
     "title": "(주)비아이매트릭스",
     "subtitle": "QA · 단기계약직",
+    "url": "https://www.bimatrix.co.kr/",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
@@ -35,6 +38,7 @@
     "category": "work",
     "title": "(주)이지지오",
     "subtitle": "Windows 앱 개발 · 단기계약직",
+    "url": "https://www.ezgeo.com/",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
@@ -45,6 +49,7 @@
     "category": "work",
     "title": "(주)예써",
     "subtitle": "QA · 단기계약직",
+    "url": "https://yesir.kr/",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"

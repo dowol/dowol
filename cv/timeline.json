@@ -1,9 +1,8 @@
 [
   {
     "category": "education",
-    "title": "Suwon Technical High School",
-    "subtitle": "Electronics & Communications",
     "logo": "/images/sths.png",
+    "url": "https://sugong-h.goesw.kr/",
     "period": {
       "begin": "2017-03-02",
       "end": "2020-01-02"
@@ -11,9 +10,8 @@
   },
   {
     "category": "education",
-    "title": "Busan University of Foreign Studies",
-    "subtitle": "Computer Engineering, Japanese",
     "logo": "/images/bufs.svg",
+    "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=bufsmain_2023",
     "period": {
       "begin": "2020-03-02",
       "end": "2026-02-20"
@@ -21,32 +19,26 @@
   },
   {
     "category": "work",
-    "title": "BI Matrix Co., Ltd.",
-    "subtitle": "Quality Assurance · Short-term job",
+    "url": "https://www.bimatrix.co.kr/",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
-    },
-    "description": ""
+    }
   },
   {
     "category": "work",
-    "title": "EasyGeo Inc.",
-    "subtitle": "Windows App Dev · Short-term job",
+    "url": "https://www.ezgeo.com/",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
-    },
-    "description": ""
+    }
   },
   {
     "category": "work",
-    "title": "Yesir Inc.",
-    "subtitle": "Quality Assurance · Short-term job",
+    "url": "https://yesir.kr/",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"
-    },
-    "description": ""
+    }
   }
 ]
