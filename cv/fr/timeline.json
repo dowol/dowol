@@ -2,7 +2,7 @@
   {
     "category": "education",
     "title": "Lycée Technique de Suwon",
-    "subtitle": "electronique & communications",
+    "subtitle": "electronique & communications · Corée",
     "logo": "/images/sths.png",
     "period": {
       "begin": "2017-03-02",
@@ -12,7 +12,7 @@
   {
     "category": "education",
     "title": "Université des langues étrangères de Busan",
-    "subtitle": "génie informatique, langue japonaise",
+    "subtitle": "génie informatique, langue japonaise · Corée",
     "logo": "/images/bufs.svg",
     "period": {
       "begin": "2020-03-02",
@@ -22,7 +22,7 @@
   {
     "category": "work",
     "title": "BI Matrix S.A.",
-    "subtitle": "assurance qualité · travail temporaire",
+    "subtitle": "assurance qualité · travail temporaire · Séoul",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
@@ -32,7 +32,7 @@
   {
     "category": "work",
     "title": "EasyGeo S.A.",
-    "subtitle": "dév. d'appli Windows · travail temporaire",
+    "subtitle": "dév. d'appli. Windows · travail temporaire · Busan",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
@@ -42,7 +42,7 @@
   {
     "category": "work",
     "title": "Yesir S.A.",
-    "subtitle": "assurance qualité · travail temporaire",
+    "subtitle": "assurance qualité · travail temporaire · Séoul",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"

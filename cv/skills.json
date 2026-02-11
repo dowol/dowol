@@ -1,3 +1,164 @@
 [
-
+  {
+    "id": "c",
+    "category": "language",
+    "name": "C",
+    "icon": "devicon-c-original"
+  },
+  {
+    "id": "csharp",
+    "category": "language",
+    "name": "C#",
+    "icon": "devicon-csharp-plain"
+  },
+  {
+    "id": "javascript",
+    "category": "language",
+    "name": "JavaScript",
+    "icon": "devicon-javascript-plain"
+  },
+  {
+    "id": "typescript",
+    "category": "language",
+    "name": "TypeScript",
+    "icon": "devicon-typescript-plain"
+  },
+  {
+    "id": "python",
+    "category": "language",
+    "name": "Python",
+    "icon": "devicon-python-plain"
+  },
+  {
+    "id": "html",
+    "category": "language",
+    "name": "HTML",
+    "icon": "devicon-html5-plain-wordmark"
+  },
+  {
+    "id": "css",
+    "category": "language",
+    "name": "CSS",
+    "icon": "devicon-css3-plain-wordmark"
+  },
+  {
+    "id": "scss",
+    "category": "language",
+    "name": "SCSS",
+    "icon": "devicon-sass-original"
+  },
+  {
+    "id": "sql",
+    "category": "language",
+    "name": "SQL",
+    "icon": "devicon-azuresqldatabase-plain"
+  },
+  {
+    "id": "react",
+    "category": "dev/web_frontend",
+    "name": "React",
+    "icon": "devicon-react-original"
+  },
+  {
+    "id": "svelte",
+    "category": "dev/web_frontend",
+    "name": "Svelte",
+    "icon": "devicon-svelte-plain"
+  },
+  {
+    "id": "nextjs",
+    "category": "dev/web_full-stack",
+    "name": "Next.js",
+    "icon": "devicon-nextjs-plain"
+  },
+  {
+    "id": "nodejs",
+    "category": "dev/web_backend",
+    "name": "node.js",
+    "icon": "devicon-nodejs-plain"
+  },
+  {
+    "id": "fastapi",
+    "category": "dev/web_backend",
+    "name": "FastAPI",
+    "icon": "devicon-fastapi-plain"
+  },
+  {
+    "id": "aspnetcore",
+    "category": "dev/web_backend",
+    "name": "ASP.NET Core",
+    "icon": "devicon-dotnetcore-plain"
+  },
+  {
+    "id": "wpf",
+    "category": "dev/gui_app",
+    "name": ".NET/WPF",
+    "icon": "devicon-dot-net-plain"
+  },
+  {
+    "id": "qt",
+    "category": "dev/gui_app",
+    "name": "Qt/PySide2",
+    "icon": "devicon-qt-original"
+  },
+  {
+    "id": "mysql",
+    "category": "dev/database",
+    "name": "MySQL",
+    "icon": "devicon-mysql-original"
+  },
+  {
+    "id": "postgresql",
+    "category": "dev/database",
+    "name": "PostgreSQL",
+    "icon": "devicon-postgresql-plain"
+  },
+  {
+    "id": "sqlite",
+    "category": "dev/database",
+    "name": "SQLite",
+    "icon": "devicon-sqlite-plain"
+  },
+  {
+    "id": "mongodb",
+    "category": "dev/database",
+    "name": "mongoDB",
+    "icon": "devicon-mongodb-plain"
+  },
+  {
+    "id": "git",
+    "category": "tool",
+    "name": "Git",
+    "icon": "devicon-git-plain"
+  },
+  {
+    "id": "notion",
+    "category": "tool",
+    "name": "Notion",
+    "icon": "devicon-notion-plain"
+  },
+  {
+    "id": "figma",
+    "category": "tool",
+    "name": "Figma",
+    "icon": "devicon-figma-plain"
+  },
+  {
+    "id": "aws",
+    "category": "tool",
+    "name": "Amazon Web Services",
+    "icon": "devicon-amazonwebservices-plain-wordmark"
+  },
+  {
+    "id": "gcp",
+    "category": "tool",
+    "name": "Google Cloud Platform",
+    "icon": "devicon-googlecloud-plain"
+  },
+  {
+    "id": "github-actions",
+    "category": "tool",
+    "name": "GitHub Actions",
+    "icon": "devicon-githubactions-plain"
+  }
 ]

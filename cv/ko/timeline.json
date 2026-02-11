@@ -9,7 +9,7 @@
       "begin": "2017-03-02",
       "end": "2020-01-02"
     },
-    "description": ""
+    "description": "전자공학, 전기공학, 통신공학과 C 프로그래밍 및 C를 이용한 AVR 등의 MCU, Arduino, Win32 환경에서의 프로그램 개발 기술을 익혔습니다."
   },
   {
     "category": "education",
@@ -21,39 +21,39 @@
       "begin": "2020-03-02",
       "end": "2026-02-20"
     },
-    "description": ""
+    "description": "컴퓨터공학 이론과 현업에서 주로 쓰이는 C, JAVA, Python, C# 언어와 웹 프로그래밍, PySide2를 이용한 GUI 프로그래밍, RDBMS를 대학에서 공부하였습니다.\n\n대학에서 배운 것 외에도, 개인 시간을 이용하여 관심이 생긴 여러 개발 분야의 지식과 기술을 독학하였습니다."
   },
   {
     "category": "work",
-    "title": "(주)비아이매트릭스",
-    "subtitle": "QA · 단기계약직",
+    "title": "㈜비아이매트릭스",
+    "subtitle": "QA · 단기계약직 · 서울 강남구",
     "url": "https://www.bimatrix.co.kr/",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
     },
-    "description": "자사제품 **AUD플랫폼**(로우코드(low-code) 개발 플랫폼)의 QA를 진행하였습니다. "
+    "description": "**자사 제품 AUD플랫폼**(로우코드(low-code) 개발 플랫폼)**의 QA를 진행하였습니다.** 짧은 근무기간 속에서도 첫 IT기업에서의 근무 환경을 경험하고, 오류를 잡을 때 직접 소스코드를 읽어보면서 코드분석 능력을 키울 수 있었습니다."
   },
   {
     "category": "work",
-    "title": "(주)이지지오",
-    "subtitle": "Windows 앱 개발 · 단기계약직",
+    "title": "㈜이지지오",
+    "subtitle": "Windows 앱 개발 · 단기계약직 · 부산 사상구",
     "url": "https://www.ezgeo.com/",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
     },
-    "description": "Delphi와 PostgreSQL을 이용한 모 회사 그룹웨어 클라이언트 개발에 참여하였습니다."
+    "description": "**Delphi와 PostgreSQL을 이용한 모 회사 그룹웨어 클라이언트 개발에 참여하였습니다.** Delphi는 이전에 경험이 없었지만, 회사에서 제공하는 기본교육을 받고, 저 스스로도 직접 자료를 찾아보면서 독학하여 주어진 일을 완수했습니다."
   },
   {
     "category": "work",
-    "title": "(주)예써",
-    "subtitle": "QA · 단기계약직",
+    "title": "㈜예써",
+    "subtitle": "QA · 단기계약직 · 서울 강남구",
     "url": "https://yesir.kr/",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"
     },
-    "description": "자사 제품 **예써오더**(스마트오더 시스템)의 전반적인 QA와 신규 테스트 케이스 작성 업무를 진행하였습니다.\n\n"
+    "description": "**자사 제품 예써오더**(스마트오더 시스템)**의 전반적인 QA와 신규 테스트 케이스 작성 업무를 진행하였습니다.** QA를 수행하면서 기획팀과 개발팀 등 회사 구성원과의 원활한 커뮤니케이션 능력을 향상시키고, 전반적인 개발 및 배포 프로세스를 익혔습니다."
   }
 ]

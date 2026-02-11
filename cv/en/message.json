@@ -14,5 +14,12 @@
   "current_edu": "",
   "begin_work": "Joined on",
   "end_work": "Resigned on",
-  "current_work": ""
+  "current_work": "",
+
+  "title_about": "I am a junior developer",
+  "title_timeline": "I've grown up with these",
+  "title_skills": "I have skills like these",
+
+  "education": "Education",
+  "career": "Job Careers"
 }
