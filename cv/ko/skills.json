@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c",
+    "description": ""
+  },
+  {
+    "id": "csharp",
+    "description": ""
+  },
+  {
+    "id": "javascript",
+    "description": ""
+  },
+  {
+    "id": "typescript",
+    "description": ""
+  },
+  {
+    "id": "python",
+    "description": ""
+  },
+  {
+    "id": "html",
+    "description": ""
+  },
+  {
+    "id": "css",
+    "description": ""
+  },
+  {
+    "id": "scss",
+    "description": ""
+  },
+  {
+    "id": "sql",
+    "description": ""
+  },
+  {
+    "id": "react",
+    "description": ""
+  },
+  {
+    "id": "svelte",
+    "description": ""
+  },
+  {
+    "id": "nextjs",
+    "description": ""
+  },
+  {
+    "id": "nodejs",
+    "description": ""
+  },
+  {
+    "id": "fastapi",
+    "description": ""
+  },
+  {
+    "id": "aspnetcore",
+    "description": ""
+  },
+  {
+    "id": "wpf",
+    "description": ""
+  },
+  {
+    "id": "qt",
+    "description": ""
+  },
+  {
+    "id": "mysql",
+    "description": ""
+  },
+  {
+    "id": "postgresql",
+    "description": ""
+  },
+  {
+    "id": "sqlite",
+    "description": ""
+  },
+  {
+    "id": "mongodb",
+    "description": ""
+  },
+  {
+    "id": "git",
+    "description": ""
+  },
+  {
+    "id": "notion",
+    "description": ""
+  },
+  {
+    "id": "figma",
+    "description": ""
+  },
+  {
+    "id": "aws",
+    "description": ""
+  },
+  {
+    "id": "gcp",
+    "description": ""
+  },
+  {
+    "id": "github-actions",
+    "description": ""
+  }
+]
