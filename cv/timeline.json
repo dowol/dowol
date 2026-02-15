@@ -1,5 +1,6 @@
 [
   {
+    "id": "sths",
     "category": "education",
     "logo": "/images/sths.png",
     "url": "https://sugong-h.goesw.kr/",
@@ -9,6 +10,7 @@
     }
   },
   {
+    "id": "bufs",
     "category": "education",
     "logo": "/images/bufs.svg",
     "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=bufsmain_2023",
@@ -18,6 +20,7 @@
     }
   },
   {
+    "id": "bimatrix",
     "category": "work",
     "url": "https://www.bimatrix.co.kr/",
     "period": {
@@ -26,6 +29,7 @@
     }
   },
   {
+    "id": "easygeo",
     "category": "work",
     "url": "https://www.ezgeo.com/",
     "period": {
@@ -34,6 +38,7 @@
     }
   },
   {
+    "id": "yesir",
     "category": "work",
     "url": "https://yesir.kr/",
     "period": {

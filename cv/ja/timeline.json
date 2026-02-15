@@ -1,5 +1,6 @@
 [
   {
+    "id": "sths",
     "category": "education",
     "title": "水原工業高等学校",
     "subtitle": "電子通信科 · 韓国",
@@ -10,6 +11,7 @@
     }
   },
   {
+    "id": "bufs",
     "category": "education",
     "title": "釜山外国語大学",
     "subtitle": "コンピュータ工学科、日本語融合学府 · 韓国",
@@ -20,6 +22,7 @@
     }
   },
   {
+    "id": "bimatrix",
     "category": "work",
     "title": "㈱ビーアイ・マトリックス (BI Matrix)",
     "subtitle": "QA · 短期契約 · 韓国・ソウル",
@@ -30,6 +33,7 @@
     "description": ""
   },
   {
+    "id": "easygeo",
     "category": "work",
     "title": "㈱イージージオ (EasyGeo)",
     "subtitle": "Windowsアプリ開発 · 短期契約 · 韓国・釜山",
@@ -40,6 +44,7 @@
     "description": ""
   },
   {
+    "id": "yesir",
     "category": "work",
     "title": "㈱イェッサー (Yesir)",
     "subtitle": "QA · 短期契約 · 韓国・ソウル",
