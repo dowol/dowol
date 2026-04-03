@@ -18,7 +18,9 @@ aim to demonstrate **communication skills** and **problem-solving** skills,
 which improve works actively by receiving feedback from anyone.
 
 --------------------------------------------------
+
 ### ✒️ I am studying like these:
+
 I focus on **web frontend/backend**, **Windows apps**, and **databases**,
 which are my main areas of expertise.
 I study and primarily use React, node.js, express.js, WPF and Win32 API, MySQL, and PostgreSQL, which are widely used in each field.
@@ -27,7 +29,9 @@ Furthermore, whenever a new technology emerges, sparks my personal curiosity, or
 
 For example, while serving as the manager of an IT academic club in college, I used Google Forms to collect new member applications and store the results in a Google Sheet. While this was convenient for sharing in real time, the sheer volume of information on a single screen made it difficult to view the content. As the number of applicants increased, management became difficult.
 So, I developed a script using Python to extract Google Sheet data to CSV and then create individual application forms in DOCX format, thereby alleviating these issues.
+
 --------------------------------------------------
+
 ### ♥️ I am enjoying like these:
 
 I enjoy inventing and creating something new, improving existing inconveniences, and organizing the process so that it can be applied elsewhere.
