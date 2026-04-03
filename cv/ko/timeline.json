@@ -4,6 +4,7 @@
     "category": "education",
     "title": "수원공업고등학교",
     "subtitle": "전자통신과",
+    "major": "전자통신과",
     "logo": "/images/sths.png",
     "url": "https://sugong-h.goesw.kr/",
     "period": {
@@ -17,6 +18,7 @@
     "category": "education",
     "title": "부산외국어대학교",
     "subtitle": "컴퓨터공학과, 일본어융합학부 IT전공(복수)",
+    "major": "컴퓨터공학과, 일본어융합학부 IT전공(복수)",
     "logo": "/images/bufs.svg",
     "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=bufsmain_2023",
     "period": {
@@ -30,6 +32,9 @@
     "category": "work",
     "title": "㈜비아이매트릭스",
     "subtitle": "QA · 단기계약직 · 서울 강남구",
+    "duty": "QA",
+    "contract": "단기계약직",
+    "location": "서울 강남구",
     "url": "https://www.bimatrix.co.kr/",
     "period": {
       "begin": "2022-12-05",
@@ -42,6 +47,9 @@
     "category": "work",
     "title": "㈜이지지오",
     "subtitle": "Windows 앱 개발 · 단기계약직 · 부산 사상구",
+    "duty": "Windows 앱 개발",
+    "contract": "단기계약직",
+    "location": "부산 사상구",
     "url": "https://www.ezgeo.com/",
     "period": {
       "begin": "2024-06-24",
@@ -54,6 +62,9 @@
     "category": "work",
     "title": "㈜예써",
     "subtitle": "QA · 단기계약직 · 서울 강남구",
+    "duty": "QA",
+    "contract": "단기계약직",
+    "location": "서울 강남구",
     "url": "https://yesir.kr/",
     "period": {
       "begin": "2025-07-21",

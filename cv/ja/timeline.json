@@ -4,6 +4,7 @@
     "category": "education",
     "title": "水原工業高等学校",
     "subtitle": "電子通信科 · 韓国",
+    "major": "電子通信科",
     "logo": "/images/sths.png",
     "period": {
       "begin": "2017-03-02",
@@ -15,6 +16,7 @@
     "category": "education",
     "title": "釜山外国語大学",
     "subtitle": "コンピュータ工学科、日本語融合学府 · 韓国",
+    "major": "コンピュータ工学科、日本語融合学府",
     "logo": "/images/bufs.svg",
     "period": {
       "begin": "2020-03-02",
@@ -25,7 +27,10 @@
     "id": "bimatrix",
     "category": "work",
     "title": "㈱ビーアイ・マトリックス (BI Matrix)",
-    "subtitle": "QA · 短期契約 · 韓国・ソウル",
+    "subtitle": "QA · 短期契約 · ソウル",
+    "duty": "QA",
+    "contract": "短期契約",
+    "location": "ソウル",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
@@ -36,7 +41,10 @@
     "id": "easygeo",
     "category": "work",
     "title": "㈱イージージオ (EasyGeo)",
-    "subtitle": "Windowsアプリ開発 · 短期契約 · 韓国・釜山",
+    "subtitle": "Windowsアプリ開発 · 短期契約 · 釜山",
+    "duty": "Windowsアプリ開発",
+    "contract": "短期契約",
+    "location": "釜山",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
@@ -47,7 +55,10 @@
     "id": "yesir",
     "category": "work",
     "title": "㈱イェッサー (Yesir)",
-    "subtitle": "QA · 短期契約 · 韓国・ソウル",
+    "subtitle": "QA · 短期契約 · ソウル",
+    "duty": "QA",
+    "contract": "短期契約",
+    "location": "ソウル",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"

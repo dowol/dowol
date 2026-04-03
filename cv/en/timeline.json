@@ -3,6 +3,7 @@
     "category": "education",
     "title": "Suwon Technical High School",
     "subtitle": "Electronics & Communications · Korea",
+    "major": "Electronics & Communications",
     "logo": "/images/sths.png",
     "period": {
       "begin": "2017-03-02",
@@ -13,6 +14,7 @@
     "category": "education",
     "title": "Busan University of Foreign Studies",
     "subtitle": "Computer Engineering, Japanese · Korea",
+    "major": "Computer Engineering",
     "logo": "/images/bufs.svg",
     "period": {
       "begin": "2020-03-02",
@@ -23,6 +25,9 @@
     "category": "work",
     "title": "BI Matrix Co., Ltd.",
     "subtitle": "Quality Assurance · Short-term job · Seoul",
+    "duty": "Quality Assurance",
+    "contract": "Short-term",
+    "location": "Seoul",
     "period": {
       "begin": "2022-12-05",
       "end": "2022-12-09"
@@ -33,6 +38,9 @@
     "category": "work",
     "title": "EasyGeo Inc.",
     "subtitle": "Windows App Dev · Short-term job · Busan",
+    "duty": "Windows App Dev",
+    "contract": "Short-term",
+    "location": "Busan",
     "period": {
       "begin": "2024-06-24",
       "end": "2024-08-14"
@@ -43,6 +51,9 @@
     "category": "work",
     "title": "Yesir Inc.",
     "subtitle": "Quality Assurance · Short-term job · Seoul",
+    "duty": "Quality Assurance",
+    "contract": "Short-term",
+    "location": "Seoul",
     "period": {
       "begin": "2025-07-21",
       "end": "2025-08-13"
