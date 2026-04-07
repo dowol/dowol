@@ -10,11 +10,7 @@ Mon objectif est de progresser en tant que développeur senior, non seulement en
 
 ### ✒️ Voici comment j'étudie :
 
-Je me spécialise dans le **développement web front-end/back-end**, les **applications Windows** et les **bases de données**,
-
-qui constituent mes principaux domaines d'expertise.
-
-J'étudie et j'utilise principalement React, Node.js, Express.js, WPF et l'API Win32, MySQL et PostgreSQL, technologies largement répandues dans chacun de ces domaines.
+Je me spécialise dans le **développement web front-end/back-end**, les **applications Windows** et les **bases de données**, qui constituent mes principaux domaines d'expertise. J'étudie et j'utilise principalement React, Node.js, Express.js, WPF et l'API Win32, MySQL et PostgreSQL, technologies largement répandues dans chacun de ces domaines.
 
 De plus, dès qu'une nouvelle technologie émerge, éveille ma curiosité ou s'avère nécessaire à mon travail, je m'efforce d'en apprendre les fonctions de base et de développer au moins un prototype. Cela me permet d'élargir mes centres d'intérêt et d'acquérir de l'expérience dans divers domaines. Les connaissances et les compétences que j'ai accumulées au fil des ans m'ont permis de démontrer mes aptitudes à résoudre des problèmes sur de multiples plateformes.
 
